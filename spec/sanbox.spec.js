@@ -8,6 +8,7 @@ const chromeOptions = process.env.GITHUB_ACTIONS ? options.headless() : options;
 
 describe("Sandbox", () => {
   let browser;
+  let originalTimeout;
 
   beforeAll(async () => {
     browser = await new Builder()
@@ -19,6 +20,15 @@ describe("Sandbox", () => {
 
   afterAll(() => {
     browser.quit();
+  });
+
+  beforeEach(() => {
+    originalTimeout = jasmine.DEFAULT_TIMEOUT_INTERVAL;
+    jasmine.DEFAULT_TIMEOUT_INTERVAL = 200000;
+  });
+
+  afterEach(() => {
+    jasmine.DEFAULT_TIMEOUT_INTERVAL = originalTimeout;
   });
 
   it("should be on Sandbox", async () => {
