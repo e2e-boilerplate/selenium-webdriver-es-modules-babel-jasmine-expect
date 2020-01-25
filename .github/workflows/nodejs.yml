@@ -1,4 +1,4 @@
-name: NodeCI
+name: selenium-webdriver-es6modules-babel-jasmine
 
 on: [push]
 
@@ -13,11 +13,12 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: '12.x'
-    - name: install packages
+    - name: INSTALL
       run: |
         npm ci
       env:
         CI: true
-    - name: run test
+    - name: LINT, TEST
       run: |
+        npm run lint
         npm run test

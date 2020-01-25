@@ -2,10 +2,9 @@
   "name": "selenium-webdriver-es6modules-babel-jasmine",
   "version": "1.0.0",
   "description": "selenium-webdriver end-to-end test automation boilerplate project. Using ES6 modules, babel, and jasmine.",
-  "main": "index.js",
   "scripts": {
-    "test": "jasmine JASMINE_CONFIG_PATH=spec/support/jasmine.json",
-    "lint": "npx eslint --ext .js ./ --fix"
+    "lint": "npx eslint --ext .js ./ --fix",
+    "test": "jasmine JASMINE_CONFIG_PATH=spec/support/jasmine.json"
   },
   "keywords": [
     "selenium-webdriver",
