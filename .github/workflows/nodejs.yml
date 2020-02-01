@@ -1,4 +1,4 @@
-name: selenium-webdriver-es6modules-babel-jasmine
+name: selenium-webdriver-es6-modules-babeljs-jasmine-expect
 
 on: 
   push:
@@ -21,7 +21,9 @@ jobs:
         npm ci
       env:
         CI: true
-    - name: LINT, TEST
+    - name: LINT
       run: |
         npm run lint
+    - name: TEST
+      run: |
         npm run test
