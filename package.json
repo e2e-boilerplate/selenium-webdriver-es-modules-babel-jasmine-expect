@@ -1,7 +1,7 @@
 {
-  "name": "selenium-webdriver-es6modules-babel-jasmine",
+  "name": "selenium-webdriver-es6modules-babel-jasmine-expect",
   "version": "1.0.0",
-  "description": "selenium-webdriver end-to-end test automation boilerplate project. Using ES6 modules, babel, and jasmine.",
+  "description": "selenium-webdriver end-to-end test automation boilerplate, using ES6-Modules, BabelJS, Jasmine, and Expect.",
   "scripts": {
     "lint": "npx eslint --ext .js ./ --fix",
     "test": "jasmine JASMINE_CONFIG_PATH=spec/support/jasmine.json"
@@ -12,7 +12,8 @@
     "babel",
     "jasmine",
     "boilerplates",
-    "example"
+    "example",
+    "expect"
   ],
   "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "license": "MIT",

@@ -1,12 +1,12 @@
-# selenium-webdriver (ES6 modules, babel, jasmine)
+# selenium-webdriver (ES6-Modules, BabelJS, Jasmine, and Expect)
 
-[![GitHub Actions status | e2e-boilerplates/selenium-webdriver-es6modules-babel-jasmine](https://github.com/e2e-boilerplates/selenium-webdriver-es6modules-babel-jasmine/workflows/selenium-webdriver-es6modules-babel-jasmine/badge.svg)](https://github.com/e2e-boilerplates/selenium-webdriver-es6modules-babel-jasmine/actions?workflow=selenium-webdriver-es6modules-babel-jasmine)
+[![GitHub Actions status | e2e-boilerplates/selenium-webdriver-es6-modules-babeljs-jasmine-expect](https://github.com/e2e-boilerplates/selenium-webdriver-es6-modules-babeljs-jasmine-expect/workflows/selenium-webdriver-es6-modules-babeljs-jasmine-expect/badge.svg)](https://github.com/e2e-boilerplates/selenium-webdriver-es6-modules-babeljs-jasmine-expect/actions?workflow=selenium-webdriver-es6-modules-babeljs-jasmine-expect)
 
-selenium-webdriver end-to-end test automation boilerplate project. Using ES6 modules, babel, and jasmine.
+selenium-webdriver end-to-end test automation boilerplate, using ES6-Modules, BabelJS, Jasmine, and Expect.
 
 ## Getting Started
 
-    git clone git@github.com:e2e-boilerplates/selenium-webdriver-es6modules-babel-jasmine.git
-    cd selenium-webdriver-es6modules-babel-jasmine
+    git clone git@github.com:e2e-boilerplates/selenium-webdriver-es6-modules-babeljs-jasmine-expect.git
+    cd selenium-webdriver-es6-modules-babeljs-jasmine-expect
     npm install
     npm run start
