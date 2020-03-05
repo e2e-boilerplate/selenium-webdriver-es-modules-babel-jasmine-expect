@@ -17,7 +17,7 @@
     "jasmine": "3.5.0",
     "jest": "25.1.0",
     "prettier": "1.19.1",
-    "selenium-webdriver": "4.0.0-alpha.6"
+    "selenium-webdriver": "4.0.0-alpha.7"
   },
   "keywords": [
     "babeljs",
