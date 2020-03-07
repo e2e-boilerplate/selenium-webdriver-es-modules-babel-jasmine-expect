@@ -1,4 +1,4 @@
-name: selenium-webdriver-es6-modules-babeljs-jasmine-expect
+name: selenium-webdriver-es-modules-babeljs-jasmine-expect
 
 on: 
   push:
