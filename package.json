@@ -1,1 +1,42 @@
-{"author":"","description":"selenium-webdriver end-to-end test automation boilerplate, using ES6 modules, BabelJS, Jasmine, and Expect.","devDependencies":{"@babel/core":"7.8.7","@babel/plugin-transform-runtime":"7.8.3","@babel/preset-env":"7.8.7","@babel/register":"7.8.6","@babel/runtime":"7.8.7","chromedriver":"79.0.3","eslint":"6.8.0","eslint-config-airbnb-base":"14.0.0","eslint-config-prettier":"6.10.0","eslint-plugin-import":"2.20.1","eslint-plugin-json":"2.1.0","eslint-plugin-prettier":"3.1.2","jasmine":"3.5.0","jest":"25.1.0","prettier":"1.19.1","selenium-webdriver":"4.0.0-alpha.7"},"keywords":["babeljs","es modules","expect","jasmine","selenium","selenium-webdriver","webdriver"],"license":"MIT","name":"selenium-webdriver-es6-modules-babeljs-jasmine-expect","repository":{"type":"git","url":"git+https://github.com/e2e-boilerplates/selenium-webdriver-es6-modules-babeljs-jasmine-expect.git"},"scripts":{"lint":"npx eslint --ext .js ./ --fix","test":"jasmine JASMINE_CONFIG_PATH=spec/support/jasmine.json"},"version":"1.0.0"}
+{
+  "author": "",
+  "description": "selenium-webdriver end-to-end test automation boilerplate, using ES6 modules, BabelJS, Jasmine, and Expect.",
+  "devDependencies": {
+    "@babel/core": "7.8.7",
+    "@babel/plugin-transform-runtime": "7.8.3",
+    "@babel/preset-env": "7.8.7",
+    "@babel/register": "7.8.6",
+    "@babel/runtime": "7.8.7",
+    "chromedriver": "79.0.3",
+    "eslint": "6.8.0",
+    "eslint-config-airbnb-base": "14.0.0",
+    "eslint-config-prettier": "6.10.0",
+    "eslint-plugin-import": "2.20.1",
+    "eslint-plugin-json": "2.1.0",
+    "eslint-plugin-prettier": "3.1.2",
+    "jasmine": "3.5.0",
+    "jest": "25.1.0",
+    "prettier": "1.19.1",
+    "selenium-webdriver": "4.0.0-alpha.7"
+  },
+  "keywords": [
+    "babeljs",
+    "es",
+    "expect",
+    "jasmine",
+    "selenium",
+    "selenium-webdriver",
+    "webdriver"
+  ],
+  "license": "MIT",
+  "name": "selenium-webdriver-es-modules-babeljs-jasmine-expect",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/e2e-boilerplates/selenium-webdriver-es-modules-babeljs-jasmine-expect.git"
+  },
+  "scripts": {
+    "lint": "npx eslint --ext .js ./ --fix",
+    "test": "jasmine JASMINE_CONFIG_PATH=spec/support/jasmine.json"
+  },
+  "version": "1.0.0"
+}
