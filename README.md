@@ -8,4 +8,3 @@ Selenium-WebDriver end-to-end test automation boilerplate, using ES Modules, Bab
     	1. git clone git@github.com:e2e-boilerplate/selenium-webdriver-es-modules-babel-jasmine-expect.git
     	2. cd selenium-webdriver-es-modules-babel-jasmine-expect
     	3. npm install
-    	4. npm run test
