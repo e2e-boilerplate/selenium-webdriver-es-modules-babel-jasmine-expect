@@ -9,7 +9,7 @@
     "@babel/plugin-transform-runtime": "7.9.0",
     "@babel/preset-env": "7.9.0",
     "@babel/register": "7.9.0",
-    "@babel/runtime": "7.9.0",
+    "@babel/runtime": "7.9.2",
     "chromedriver": "79.0.3",
     "eslint": "6.8.0",
     "eslint-config-airbnb-base": "14.1.0",
