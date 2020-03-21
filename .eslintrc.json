@@ -1,10 +1,12 @@
 {
-    "env": {
-        "node": true,
-        "jasmine": true
-    },
-    "extends": [
-        "airbnb-base",
-        "plugin:prettier/recommended"
-    ]
+  "env": {
+    "commonjs": true,
+    "es6": true,
+    "jasmine": true,
+    "node": true
+  },
+  "extends": [
+    "airbnb-base",
+    "plugin:prettier/recommended"
+  ]
 }
