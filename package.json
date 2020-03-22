@@ -1,5 +1,5 @@
 {
-  "author": "",
+  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "bugs": {
     "url": "https://github.com/e2e-boilerplate/selenium-webdriver-es-modules-babel-jasmine-expect/issues"
   },
@@ -25,7 +25,12 @@
   "homepage": "https://github.com/e2e-boilerplate/selenium-webdriver-es-modules-babel-jasmine-expect#readme",
   "keywords": [
     "babel",
+    "boilerplate",
+    "e2e",
+    "e2e tests",
+    "example",
     "expect",
+    "integration test",
     "jasmine",
     "selenium",
     "selenium-webdriver"
