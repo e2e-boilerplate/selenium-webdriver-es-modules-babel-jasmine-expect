@@ -1,8 +1,9 @@
 {
-  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "author": "",
   "bugs": {
     "url": "https://github.com/e2e-boilerplate/selenium-webdriver-es-modules-babel-jasmine-expect/issues"
   },
+  "dependencies": {},
   "description": "Selenium-WebDriver end-to-end test automation boilerplate. using ES Modules, Babel, Jasmine and Expect.",
   "devDependencies": {
     "@babel/core": "7.9.0",
@@ -24,12 +25,7 @@
   "homepage": "https://github.com/e2e-boilerplate/selenium-webdriver-es-modules-babel-jasmine-expect#readme",
   "keywords": [
     "babel",
-    "boilerplate",
-    "e2e",
-    "e2e tests",
-    "example",
     "expect",
-    "integration test",
     "jasmine",
     "selenium",
     "selenium-webdriver"
@@ -44,6 +40,5 @@
     "lint": "npx eslint --ext .js ./ --fix",
     "test": "jasmine JASMINE_CONFIG_PATH=spec/support/jasmine.json"
   },
-  "version": "1.0.0",
-  "dependencies": {}
+  "version": "1.0.0"
 }
