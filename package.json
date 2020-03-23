@@ -8,7 +8,7 @@
     "jasmine": "3.5.0",
     "selenium-webdriver": "4.0.0-alpha.7"
   },
-  "description": "Selenium-WebDriver end-to-end test automation boilerplate. using ES Modules, Babel, Jasmine and Expect.",
+  "description": "Selenium-WebDriver end-to-end test automation boilerplate. Using ES Modules, Babel, Jasmine and Expect.",
   "devDependencies": {
     "@babel/cli": "7.8.4",
     "@babel/core": "7.9.0",
@@ -22,7 +22,7 @@
     "eslint-plugin-import": "2.20.1",
     "eslint-plugin-prettier": "3.1.2",
     "husky": "4.2.3",
-    "prettier": "2.0.1",
+    "prettier": "1.19.1",
     "pretty-quick": "2.0.1"
   },
   "homepage": "https://github.com/e2e-boilerplate/selenium-webdriver-es-modules-babel-jasmine-expect#readme",
