@@ -28,6 +28,11 @@
     "pretty-quick": "2.0.1"
   },
   "homepage": "https://github.com/e2e-boilerplate/selenium-webdriver-es-modules-babel-jasmine-expect#readme",
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
   "keywords": [
     "babel",
     "boilerplate",
@@ -41,6 +46,11 @@
     "selenium-webdriver"
   ],
   "license": "MIT",
+  "lint-staged": {
+    "*.{js,json,md}": [
+      "prettier --write"
+    ]
+  },
   "name": "selenium-webdriver-es-modules-babel-jasmine-expect",
   "repository": {
     "type": "git",
