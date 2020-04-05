@@ -1,0 +1,12 @@
+| referrer                                                                                            | count | uniques |
+| :-------------------------------------------------------------------------------------------------- | :---- | :------ |
+| /e2e-boilerplate/selenium-webdriver-es-modules-babel-jasmine-expect/actions                         | 3     | 1       |
+| /e2e-boilerplate/selenium-webdriver-es-modules-babel-jasmine-expect/tree/master/spec                | 3     | 1       |
+| /e2e-boilerplate/selenium-webdriver-es-modules-babel-jasmine-expect                                 | 1     | 1       |
+| /e2e-boilerplate/selenium-webdriver-es-modules-babel-jasmine-expect/actions/runs/62548502           | 1     | 1       |
+| /e2e-boilerplate/selenium-webdriver-es-modules-babel-jasmine-expect/actions/runs/62573114           | 1     | 1       |
+| /e2e-boilerplate/selenium-webdriver-es-modules-babel-jasmine-expect/actions/runs/66995866           | 1     | 1       |
+| /e2e-boilerplate/selenium-webdriver-es-modules-babel-jasmine-expect/blob/master/spec/sanbox.spec.js | 1     | 1       |
+| /e2e-boilerplate/selenium-webdriver-es-modules-babel-jasmine-expect/runs/531941301                  | 1     | 1       |
+| /e2e-boilerplate/selenium-webdriver-es-modules-babel-jasmine-expect/runs/532172999                  | 1     | 1       |
+| /e2e-boilerplate/selenium-webdriver-es-modules-babel-jasmine-expect/runs/547332967                  | 1     | 1       |
